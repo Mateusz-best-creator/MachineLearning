@@ -10,16 +10,21 @@ Feel free to explore the code and learn!
 ## Screenshots
 
 **Transfer learning with PyTorch**
-<img src="screenshots/screen1.png" alt="alt text" width="300">
+
+<img src="screenshots/screen1.png" alt="alt text" width="600">
 
 **Data visualization with matplotlib and pandas**
-<img src="screenshots/screen2.png" alt="alt text" width="300">
+
+<img src="screenshots/screen2.png" alt="alt text" width="600">
 
 **Replicating model from the paper using TensorFlow**
-<img src="screenshots/screen3.png" alt="alt text" width="300">
+
+<img src="screenshots/screen3.png" alt="alt text" width="600">
 
 **Model outputs visualization with matplotlib and pandas**
-<img src="screenshots/screen4.png" alt="alt text" width="300">
+
+<img src="screenshots/screen4.png" alt="alt text" width="600">
 
 **Visualizing model architecture and creating data pipelines in TensorFlow**
-<img src="screenshots/screen5.png" alt="alt text" width="300">
+
+<img src="screenshots/screen5.png" alt="alt text" width="600">
